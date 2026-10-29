@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aislabs-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aislabs.ai/
+AIS Labs AI is a product lab that builds practical AI‑powered tools and concise briefs for users who prefer actionable signals over endless dashboards. Offering a suite of deterministic, auditable services such as CVE prioritization, brief summaries, and monitoring utilities, the platform operates on a pay‑per‑use model with transparent pricing. All tools are open‑source where possible, and the companion CLI is MIT‑licensed. The company is operated by Autonomous Intelligent Systems LLC.
+
+**Areas:** Company · AI · Tools · Briefs · Security · Data
+
+## aislabs-ai on APIs.io
+
+Everything profiled for aislabs-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aislabs-ai/](https://apis.io/providers/aislabs-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [AIS API](https://apis.io/apis/aislabs-ai/ais-api/) — AIS API provides CVE intelligence, brief summaries, and flight recorder monitoring.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [aislabs-ai API Rules](https://apis.io/rules/aislabs-ai/aislabs-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aislabs Ai Authentication](https://apis.io/security/aislabs-ai/aislabs-ai-authentication/)
+- [Aislabs Ai Domain Security](https://apis.io/security/aislabs-ai/aislabs-ai-domain-security/)
+- [Aislabs Ai Vulnerability Disclosure](https://apis.io/security/aislabs-ai/aislabs-ai-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Aislabs Ai Scopes](https://apis.io/scopes/aislabs-ai/aislabs-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Aislabs Ai Plans Pricing](https://apis.io/plans/aislabs-ai/aislabs-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Aislabs Ai Rate Limits](https://apis.io/rate-limits/aislabs-ai/aislabs-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aislabs.ai/)
+- [Documentation](https://aislabs.ai/api-docs/)
+- [Getting started](https://aislabs.ai/products/)
+- [API reference](https://aislabs.ai/api-docs/)
+- [GitHub](https://github.com/aislabs-ai)
+
+## API Evangelist rating
+
+**Kin Score 33.2** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 18.9 |
+
+**Agent readiness 12.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 30.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aislabs-ai/](https://apis.io/providers/aislabs-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for aislabs-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aislabs-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
